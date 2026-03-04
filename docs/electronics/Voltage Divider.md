@@ -37,9 +37,14 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 <img src="/media/vdu.png?raw=true" alt="Circuit Diagram" width=50%>
 
-### The formula
+### The formulae
 
 $\Delta V_{out} =  \frac{\mathcal{E}R_1}{R_1+R_2}$
+
+For the capacitor, Your Time Constant should be greater than the average fluctuation period. 
+
+> [!TIP]
+> Time Constant = $\tau = RC$. The Time Constant is measured in seconds.
 
 
 

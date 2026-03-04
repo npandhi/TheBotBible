@@ -14,6 +14,23 @@ This guide will walk you through bulding a VDU.
 >
 > **I cannot feasibly teach all of those skills in this guide.**
 
+> [!CAUTION]
+> This guide involves soldering.
+>
+> A soldering iron can be extremely dangerous if misused. A soldering iron can get up to 450°C and cause **third-degree burns** in under a second.
+>
+> I myself have been burned by an iron. It's not fun. But because I followed standard safety procedures, I was okay. 
+>
+> Always wear safety goggles, use a soldering mat, and use an iron holder.
+>
+> NEVER leave an iron unattended, hold components being soldered with your hands, leave flammable or explosive items nearby, or touch the iron's tip while it is hot.
+>
+> If you are burned, run the affected area under cool water for as long as you can. If the burn is large or affects deep skin tissue, seek medical attention.
+>
+> Keep a fire extinguisher nearby. See Commandment 07.
+>
+> **Failure to abide to these precautions may result in serious burns or fire.**
+
 > [!TIP]
 > [This video](https://www.youtube.com/watch?v=degbF-1VqIE) is a fantastic resource that goes over modifying the IA6B for voltage telemetry.
 >

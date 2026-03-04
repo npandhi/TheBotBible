@@ -39,18 +39,37 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 ### The formulae
 
-$\Delta V_{out} =  \frac{\mathcal{E}R_1}{R_1+R_2}$
+$\Delta V_{out} = \frac{\mathcal{E}R_1}{R_1+R_2}$
 
-> [!TIP]
+Time Constant = $\tau = RC$. The Time Constant is measured in seconds.
+
+> [!NOTE]
 > $\mathcal{E}$, emf, or electromotive force is the voltage of your battery.
 >
 > Why don't I use $\Delta V_{bat}$? $\Delta V_{bat}$ refers to a battery under load. Using $\Delta V_{bat}$ could lead to a voltage that is too high.
 
-For the capacitor, Your Time Constant should be greater than the average fluctuation period. 
+
+
+
+
+The divider formula ends up becoming this:
+
+$3 > \frac{\mathcal{E}R_1}{R_1+R_2}$
+
+And you can solve the inequality by choosing one of the resistor values and solving for the other.
 
 > [!TIP]
-> Time Constant = $\tau = RC$. The Time Constant is measured in seconds.
+> Choose a high resistor value to limit the current going to the receiver. I'm talking kiloohms.
 
+## Building the VDU
 
+Here's the values I will be using, These may or may not work for you.
 
+$\mathcal{E}$ = 12.6V
+
+$R_1 = 220k\Omega
+
+$R_2 = 69k\Omega
+
+> Nice.
 

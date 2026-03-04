@@ -13,7 +13,7 @@ This guide will walk you through wiring up a BattleBot's wiring harness.
 >
 > NEVER leave an iron unattended, hold components being soldered with your hands, leave flammable or explosive items nearby, or touch the iron's tip while it is hot.
 >
-> Failure to abide to these precautions may result in an inoperable harness, burns, or fire.
+> **Failure to abide to these precautions may result in an inoperable harness, burns, or fire.**
 >
 > Keep a fire extinguisher nearby. See Commandment 07.
 

@@ -6,11 +6,11 @@ This guide will walk you through bulding a VDU.
 >
 > This guide is meant for experienced builders.
 >
-> Advanced PCB soldering is required for the modification
+> - Advanced PCB soldering is required for the modification
 > 
-> Building the VDU requires knowledge of RC circuits. 
+> - Building the VDU requires knowledge of RC circuits. 
 >
-> An I6X with OpenI6X is required to get correct telemetry.
+> - An I6X with OpenI6X is required to get correct telemetry.
 >
 > **I cannot feasibly teach all of those skills in this guide.**
 

@@ -21,7 +21,7 @@ This guide will walk you through wiring up a BattleBot's wiring harness.
 >
 > Keep a fire extinguisher nearby. See Commandment 07.
 >
-> **Failure to abide to these precautions may result in serious burns or fire**
+> **Failure to abide to these precautions may result in serious burns or fire.**
 
 
 
@@ -39,6 +39,7 @@ Bolded items are required, everything else is optional, but are still recommende
 - Flux
 - Tip tinner
 - **Wire cutters**
+- **Heat Shrink**
 - Wire strippers
 - Fume extractor
 - **Safety goggles**
@@ -90,3 +91,29 @@ Lay out your parts in the way you will connect them, ensuring no part is left be
 > Before soldering, clean your soldering iron tip and apply some fresh solder.
 
 Apply a layer of solder to the PDB. Using some extra flux here will make this a lot easier. 
+
+### 3a) Connect the Motors and the Drive ESCs to the PDB (Brushed)
+*For brushed drive motors, such as the Repeat MK2 or the Silver Spark.*
+
+Place heat shrink onto the ESC wires.
+
+Loop the ends of the ESC wires into the terminal hooks and solder the hooks to the wire. The orientation of the wires isn't super important.
+
+Slip the heat shrink over the terminal and apply heat to protect the connection.
+
+Solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative.
+
+
+### 3b) Connect the Motors and the Drive ESCs to the PDB (Brushless)
+*For brushless drive motors, such as the Repeat MK4.*
+
+Solder the three motor leads to the ESC. The orientation doesn't matter. 
+
+If you are using a discrete PDB, connect the ESC leads to the PDB. Orientation does matter. Red is positive, black is negative.
+
+
+### 4) Connect the weapon ESC to the PDB
+
+Solder the ESC leads to the the PDB. Orientation does matter. Red is positive, black is negative.
+
+The position of the ESCs does not matter, as long as all reds are positive and all blacks are negative.

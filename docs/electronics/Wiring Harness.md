@@ -112,7 +112,7 @@ Solder the three motor leads to the ESC. The orientation doesn't matter.
 
 If you are using a discrete PDB, connect the ESC leads to the PDB. Orientation does matter. Red is positive, black is negative.
 
-
+&nbsp;
 ### 4) Connect the weapon ESC to the PDB
 
 Solder the ESC leads to the the PDB. Orientation does matter. Red is positive, black is negative.

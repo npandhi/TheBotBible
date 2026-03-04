@@ -65,11 +65,11 @@ And you can solve the inequality by choosing one of the resistor values and solv
 
 Here's the values I will be using, These may or may not work for you.
 
-$\mathcal{E}$ = 12.6V
+$\mathcal{E} = 12.6V$
 
-$R_1 = 220k\Omega
+$R_1 = 220k\Omega$
 
-$R_2 = 69k\Omega
+$R_2 = 69k\Omega$
 
 > Nice.
 

@@ -33,5 +33,9 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 **The Goal: Get the output down below 3V with a fully charged battery.**
 
+### Circuit Diagram
 
+![alt text](/media/vdu.png?raw=true)
+
+_If anyone comments on the purple I swear I will smite you..._
 

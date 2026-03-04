@@ -1,5 +1,5 @@
 # Setting up your controller
-This guide regards setting up a Flysky I6 or I6X for a BattleBot. 
+This guide will teach you how to set up a Flysky I6 or I6X for a BattleBot. 
 
 >[!WARNING]
 >This guide does not cover setting up a Flysky CT6B or an I6X modified with OpenI6X.

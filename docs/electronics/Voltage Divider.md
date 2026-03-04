@@ -36,6 +36,7 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 ### Circuit Diagram
 
 <img src="/media/vdu.png?raw=true" alt="Circuit Diagram" width=50%>
-_If anyone comments on the purple, I'm gonna take you out back with classy minimalism and Soho vibes. Rose Pine is king._
+
+_I believe in Rose Pine supremacy._
 
 

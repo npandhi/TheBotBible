@@ -43,6 +43,8 @@ $\Delta V_{out} =  \frac{\mathcal{E}R_1}{R_1+R_2}$
 
 > [!TIP]
 > $\mathcal{E}$, or emf, is the voltage of your battery.
+>
+> Why not $\Delta V_{bat}$? $\Delta V_{bat}$ refers to a battery under load. Using $\Delta V_{bat}$ could lead to a voltage that is too high.
 
 For the capacitor, Your Time Constant should be greater than the average fluctuation period. 
 

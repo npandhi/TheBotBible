@@ -39,7 +39,7 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 ### The formulae
 
-$\Delta V_{out} = \frac{\mathcal{E}R_1}{R_1+R_2}$
+$\Delta V_{out} = \frac{\mathcal{E}R_2}{R_1+R_2}$
 
 Time Constant = $\tau = RC$. The Time Constant is measured in seconds.
 
@@ -54,7 +54,7 @@ Time Constant = $\tau = RC$. The Time Constant is measured in seconds.
 
 The divider formula ends up becoming this:
 
-$3 > \frac{\mathcal{E}R_1}{R_1+R_2}$
+$3 > \frac{\mathcal{E}R_2}{R_1+R_2}$
 
 And you can solve the inequality by choosing one of the resistor values and solving for the other.
 
@@ -75,5 +75,8 @@ $R_2 = 69k\Omega$
 
 $C = 100nF$
 
-
+> [!TIP]
+> $R_1$, $R_2$, and $C$ all refer to equvalent resistance and capacitance. Feel free to use the properties of resistors and capacitors to create resistor or capacitor values that may be hard to find.
+>
+> For example, I don't have $69k\Omega$ resistors, so I put a $22k\Omega$ and a $47k\Omega$ in series. This is basically identical to using a $69k\Omega$ resistor. 
 

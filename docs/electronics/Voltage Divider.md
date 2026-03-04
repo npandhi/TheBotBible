@@ -39,7 +39,7 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 ### The formula
 
-$\Delta {V_out} =  \mathcal{E}$
+$\Delta V_{out} =  \frac{\mathcal{E}R_1}{R_1+R_2}$
 
 
 

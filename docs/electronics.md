@@ -46,7 +46,7 @@ Bolded items are required, everything else is optional, but are still recommende
 > - ReadyToSky 45A Weapon ESC
 > - Fingertech Mini Power Switch
 > - Battery JST
-> - _200k/69K Filtered Voltage Divider Unit_
+> - _200k/69k Voltage Divider Unit_
 
 > [!CAUTION]
 > The voltage divider is used by my modified IA6B for extra telemetry data.
@@ -54,3 +54,5 @@ Bolded items are required, everything else is optional, but are still recommende
 > **You do not need this and you shouldn't add one unless you know exactly what you are doing.**
 > 
 > **You cannot buy this part. You must make it yourself.**
+>
+> Check the voltage divider guide to make a divider unit. 

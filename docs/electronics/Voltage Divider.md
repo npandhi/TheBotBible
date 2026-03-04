@@ -4,11 +4,11 @@ This guide will walk you through bulding a VDU.
 > [!WARNING]
 > Nearly all Bots have no use for a VDU. The only reason to make one is for voltage telemetry with a modified IA6B.
 >
-> This guide is meant for experienced builders. Advanced PCB soldering is required for the modification, while building the VDU requires knowledge of RC circuits.
+> This guide is meant for experienced builders.
+>
+> Advanced PCB soldering is required for the modification, while building the VDU requires knowledge of RC circuits.
 >
 > **I cannot feasibly teach both of those in this guide.**
->
-> **You are on your own!**
 
 ## Parts and Tools
 The following tools and parts are needed to complete a wiring harness. 

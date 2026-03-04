@@ -37,6 +37,10 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 <img src="/media/vdu.png?raw=true" alt="Circuit Diagram" width=50%>
 
-_I believe in Rose Pine supremacy._
+### The formula
+
+\Delta V_out = \emf
+
+
 
 

@@ -11,7 +11,7 @@ This guide will walk you through wiring up a BattleBot's wiring harness.
 >
 > A soldering iron can be extremely dangerous if misused. A soldering iron can get up to 450°C and cause **third-degree burns** in under a second.
 >
-> I myself have been burned by an iron several times. It's not fun. But because I followed standard safety procedures, I was okay. 
+> I myself have been burned by an iron. It's not fun. But because I followed standard safety procedures, I was okay. 
 >
 > Always wear safety goggles, use a soldering mat, and use an iron holder.
 >

@@ -8,7 +8,7 @@ This guide will walk you through bulding a VDU.
 >
 > **I cannot feasibly teach both of those in this guide.**
 >
-> **You are on your own**
+> **You are on your own!**
 
 ## Parts and Tools
 The following tools and parts are needed to complete a wiring harness. 

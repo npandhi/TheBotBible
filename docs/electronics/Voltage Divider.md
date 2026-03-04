@@ -41,6 +41,9 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 
 $\Delta V_{out} =  \frac{\mathcal{E}R_1}{R_1+R_2}$
 
+> [!TIP]
+> $\mathcal{E}$, or emf, is the voltage of your battery.
+
 For the capacitor, Your Time Constant should be greater than the average fluctuation period. 
 
 > [!TIP]

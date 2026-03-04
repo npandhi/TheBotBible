@@ -31,6 +31,7 @@ Bolded items are required, everything else is optional, but are still recommende
 - Battery JST
 - FS2A
 
+> [!NOTE]
 > The following tools and parts will be used in this guide:
 > - Pinecil V2 Soldering Iron
 > - Lead-free flux core solder
@@ -47,7 +48,7 @@ Bolded items are required, everything else is optional, but are still recommende
 > - Battery JST
 > - _200k/69K Filtered Voltage Divider Unit_
 
-> [!IMPORTANT]
+> [!CAUTION]
 > The voltage divider is used by my modified IA6B for extra telemetry data.
 > 
 > **You do not need this and you shouldn't add one unless you know exactly what you are doing.**

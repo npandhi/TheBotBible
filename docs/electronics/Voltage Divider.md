@@ -6,9 +6,16 @@ This guide will walk you through bulding a VDU.
 >
 > This guide is meant for experienced builders.
 >
-> Advanced PCB soldering is required for the modification, while building the VDU requires knowledge of RC circuits.
+> Advanced PCB soldering is required for the modification
+> 
+> Building the VDU requires knowledge of RC circuits. 
 >
-> **I cannot feasibly teach both of those in this guide.**
+> An I6X with OpenI6X is required to get correct telemetry.
+>
+> **I cannot feasibly teach all of those skills in this guide.**
+
+> [!TIP]
+> [This video](https://www.youtube.com/watch?v=degbF-1VqIE) is a fantastic resource that goes over modifying the IA6B for voltage telemetry. 
 
 ## Parts and Tools
 The following tools and parts are needed to complete a wiring harness. 

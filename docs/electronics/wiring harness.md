@@ -1,5 +1,5 @@
-# Wiring Electronics
-This guide will walk you through wiring up a BattleBot's electronics. 
+# Building the Wiring Harness
+This guide will walk you through wiring up a BattleBot's wiring harness.
 
 > [!WARNING]
 > The electronics I used to make this guide may be different than yours.

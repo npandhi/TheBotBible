@@ -12,26 +12,25 @@ The following tools and parts are needed to complete a wiring harness.
 Bolded items are required, everything else is optional, but are still recommended.
 
 ### Tools
-- *Soldering Iron*
-- *Solder*
+- **Soldering Iron**
+- **Solder**
 - Solder wick / Desoldering Pump
 - Solder Sponge / Brass wool
 - Flux
-- *Wire cutters*
+- **Wire cutters**
 - Wire strippers
 - Fume extractor
-- Safety Goggles
+- **Safety Goggles**
 
 ### Parts to be soldered
-- Drive ESC(s)
-- Drive Motors
-- Weapon ESC
+- **Drive ESC(s)**
+- **Drive Motors**
+- **Weapon ESC**
 - Power Distribution Board (PDB)
 - Power Switch
 - Battery JST
 - FS2A
 
-> [!NOTE]
 > The following tools and parts will be used in this guide:
 > - Pinecil V2 Soldering Iron
 > - Lead-free flux core solder

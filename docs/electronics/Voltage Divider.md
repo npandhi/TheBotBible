@@ -73,7 +73,7 @@ $R_2 = 69k\Omega$
 
 > Nice.
 
-C = 100nF
+$C = 100nF$
 
 
 

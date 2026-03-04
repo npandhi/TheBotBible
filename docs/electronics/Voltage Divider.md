@@ -15,7 +15,9 @@ This guide will walk you through bulding a VDU.
 > **I cannot feasibly teach all of those skills in this guide.**
 
 > [!TIP]
-> [This video](https://www.youtube.com/watch?v=degbF-1VqIE) is a fantastic resource that goes over modifying the IA6B for voltage telemetry. 
+> [This video](https://www.youtube.com/watch?v=degbF-1VqIE) is a fantastic resource that goes over modifying the IA6B for voltage telemetry.
+>
+> A guide on the I6X with OpenI6X is on my To-Do list. I'll get that together soon enough. 
 
 ## Parts and Tools
 The following tools and parts are needed to complete a wiring harness. 

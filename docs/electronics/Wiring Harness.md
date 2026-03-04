@@ -84,7 +84,7 @@ Bolded items are required, everything else is optional, but are still recommende
 ### 1) Lay out your parts.
 Lay out your parts in the way you will connect them, ensuring no part is left behind. 
 
-
+&nbsp;
 ### 2) Prep the pads of the PDB.
 
 > [!TIP]
@@ -92,6 +92,7 @@ Lay out your parts in the way you will connect them, ensuring no part is left be
 
 Apply a layer of solder to the PDB. Using some extra flux here will make this a lot easier. 
 
+&nbsp;
 ### 3a) Connect the Motors and the Drive ESCs to the PDB (Brushed)
 *For brushed drive motors, such as the Repeat MK2 or the Silver Spark.*
 
@@ -103,7 +104,7 @@ Slip the heat shrink over the terminal and apply heat to protect the connection.
 
 Solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative.
 
-
+&nbsp;
 ### 3b) Connect the Motors and the Drive ESCs to the PDB (Brushless)
 *For brushless drive motors, such as the Repeat MK4.*
 

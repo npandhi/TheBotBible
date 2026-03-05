@@ -48,7 +48,7 @@ A VDU, or Voltage Divider Unit, steps down the voltage coming from your battery 
 > [!CAUTION]
 > There are no universal VDU values. What works for me may not work for you.
 
-**The Goal: Get the output down below 3V with a fully charged battery.**
+**The Goal: Get the output down to 3V with a fully charged battery.**
 
 ### Circuit Diagram
 
@@ -71,9 +71,9 @@ Time Constant = $\tau = RC$. The Time Constant is measured in seconds.
 
 The divider formula ends up becoming this:
 
-$3 > \frac{\mathcal{E}R_2}{R_1+R_2}$
+$3 = \frac{\mathcal{E}R_2}{R_1+R_2}$
 
-And you can solve the inequality by choosing one of the resistor values and solving for the other.
+And you can solve the equation by choosing one of the resistor values and solving for the other.
 
 > [!TIP]
 > Choose a high resistor value to limit the current going to the receiver. I'm talking kiloohms.
@@ -92,12 +92,17 @@ $R_2 = 69k\Omega$
 
 $C = 100nF$
 
-> Plugging in my emf and resistor values into the formula gives me 3.008V. Close enough. 
+> Plugging in my emf and resistor values into the formula gives me 3.01V. Close enough. 
 
 > [!TIP]
 > $R_1$, $R_2$, and $C$ all refer to equvalent resistance and capacitance. Feel free to use the properties of resistors and capacitors to create resistor or capacitor values that may be hard to find.
 >
 > For example, I don't have $69k\Omega$ resistors, so I put a $22k\Omega$ and a $47k\Omega$ in series. This is basically identical to using a $69k\Omega$ resistor.
 >
-> $100nF$ was chosen for the capacitor as I am using high-quality batteries and only use brushless motors. If you are using lower quality batteries or brushed motors, consider using a capacitor with a higher capacitance. 
+> $100nF$ was chosen for the capacitor as I am using high-quality batteries and only use brushless motors. If you are using lower quality batteries or brushed motors, consider using a capacitor with a higher capacitance.
+&nbsp;
 
+### 1) Do a dry run
+Place all of your parts into the protoboard according to the diagram. 
+
+**Do not** solder anything together. 

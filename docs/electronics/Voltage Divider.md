@@ -129,7 +129,7 @@ Ensure your components are flush with the board.
 
 ### 3) Soldering the components
 
-If you have flux, apply it to the joints now. This will make it much easier to solder
+If you have flux, apply it to the joints now.
 
 <img src="/media/vdu/flux.JPG?raw=true" alt="Applying Chipquik Flux to the board" width=50%>
 &nbsp;

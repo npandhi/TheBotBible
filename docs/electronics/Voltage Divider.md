@@ -109,7 +109,7 @@ Place all of your parts into the protoboard according to the diagram.
 
 <img src="/media/vdu/dry.JPG?raw=true" alt="A dry fit of my VDU" width=50%>
 
-<img src="/media/vdu/leg.JPG?raw=true" alt="Bent legs on my board" width=50%>
+<img src="/media/vdu/legs.JPG?raw=true" alt="Bent legs on my board" width=50%>
 
 <img src="/media/vdu/flux.JPG?raw=true" alt="Applying Chipquik Flux to the board" width=50%>
 
@@ -133,7 +133,7 @@ Place all of your parts into the protoboard according to the diagram.
 
 <img src="/media/vdu/wires.JPG?raw=true" alt="Adding wires" width=50%>
 
-<img src="/media/vdu/solder wires.JPG?raw=true" alt="Soldering the wires to the board" width=50%>
+<img src="/media/vdu/solder wire.JPG?raw=true" alt="Soldering the wires to the board" width=50%>
 
 <img src="/media/vdu/brush top.JPG?raw=true" alt="Cleaning off flux" width=50%>
 

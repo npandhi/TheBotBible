@@ -107,5 +107,5 @@ Place all of your parts into the protoboard according to the diagram.
 
 **Do not** solder anything together yet. 
 
-<img src="/media/vdu?raw=true" alt="A dry fit of my VDU" width=50%>
+<img src="/media/vdu/dry.JPG?raw=true" alt="A dry fit of my VDU" width=50%>
 

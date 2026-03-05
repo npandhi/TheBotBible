@@ -105,4 +105,7 @@ $C = 100nF$
 ### 1) Do a dry run
 Place all of your parts into the protoboard according to the diagram. 
 
-**Do not** solder anything together. 
+**Do not** solder anything together yet. 
+
+<img src="/media/vdu/dry.JPG?raw=true" alt="Dry Run" width=50%>
+

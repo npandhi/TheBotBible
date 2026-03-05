@@ -239,6 +239,7 @@ Cut the board down to size. Make it as small as possible, as the board itself ha
 &nbsp;
 
 Admire your handiwork.
+
 <img src="/media/vdu/done.JPG?raw=true" alt="A picture of the finished VDU" width=50%>
 &nbsp;
 

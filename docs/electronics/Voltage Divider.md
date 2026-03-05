@@ -92,6 +92,8 @@ $R_2 = 69k\Omega$
 
 $C = 100nF$
 
+> Plugging in my emf and resistor values into the formula gives me 3.008V. Close enough. 
+
 > [!TIP]
 > $R_1$, $R_2$, and $C$ all refer to equvalent resistance and capacitance. Feel free to use the properties of resistors and capacitors to create resistor or capacitor values that may be hard to find.
 >

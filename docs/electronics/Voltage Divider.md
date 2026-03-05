@@ -201,7 +201,7 @@ I will now use the red probe to measure the voltage between the resistors. (The 
 <img src="/media/vdu/meter.JPG?raw=true" alt="Testing the VDU" width=50%>
 &nbsp;
 
-The divider seems to be working just fine. $2.74V$ is lover than the $3.01V$ I was expecting, but the theoretical value does not account for real world factors. $2.74V$ will be perfectly fine. 
+> The divider seems to be working just fine. $2.74V$ is lover than the $3.01V$ I was expecting, but the theoretical value does not account for real world factors. $2.74V$ will be perfectly fine. 
 
 If yours does not work:
 - Check for solder bridges that were not purposefully formed.

@@ -183,6 +183,7 @@ Pour some Isopropyl Alcohol on the board. Just a few drops should do. I'd recomm
 
 <img src="/media/vdu/ipa.JPG?raw=true" alt="Pouring some Isopropyl on the board" width=50%>
 &nbsp;
+
 Using a soft brush, brush the joints to get rid of any excess flux. A toothbrush works well for this.
 
 > [!WARNING]

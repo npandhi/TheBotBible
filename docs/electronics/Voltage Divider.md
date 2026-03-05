@@ -109,3 +109,34 @@ Place all of your parts into the protoboard according to the diagram.
 
 <img src="/media/vdu/dry.JPG?raw=true" alt="A dry fit of my VDU" width=50%>
 
+<img src="/media/vdu/leg.JPG?raw=true" alt="Bent legs on my board" width=50%>
+
+<img src="/media/vdu/flux.JPG?raw=true" alt="Applying Chipquik Flux to the board" width=50%>
+
+<img src="/media/vdu/leg solder.JPG?raw=true" alt="Soldering on a leg" width=50%>
+
+<img src="/media/vdu/bridge 1.JPG?raw=true" alt="Pointing to the first section the bridge" width=50%>
+
+<img src="/media/vdu/solder bridge 1.JPG?raw=true" alt="Soldering to the first section the bridge" width=50%>
+
+<img src="/media/vdu/bridge 1 done.JPG?raw=true" alt="Finished solder bridge" width=50%>
+
+<img src="/media/vdu/bridge 2.JPG?raw=true" alt="Pointing to the second section the bridge" width=50%>
+
+<img src="/media/vdu/bridge 2 done.JPG?raw=true" alt="Finished solder bridge" width=50%>
+
+<img src="/media/vdu/ipa.JPG?raw=true" alt="Pouring some Isopropyl on the board" width=50%>
+
+<img src="/media/vdu/brush bottom.JPG?raw=true" alt="Cleaning the joints" width=50%>
+
+<img src="/media/vdu/meter.JPG?raw=true" alt="Testing the VDU" width=50%>
+
+<img src="/media/vdu/wires.JPG?raw=true" alt="Adding wires" width=50%>
+
+<img src="/media/vdu/solder wires.JPG?raw=true" alt="Soldering the wires to the board" width=50%>
+
+<img src="/media/vdu/brush top.JPG?raw=true" alt="Cleaning off flux" width=50%>
+
+<img src="/media/vdu/cut.JPG?raw=true" alt="Cutting the board to size" width=50%>
+
+<img src="/media/vdu/done.JPG?raw=true" alt="A picture of the finished VDU" width=50%>

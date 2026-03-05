@@ -97,5 +97,5 @@ $C = 100nF$
 >
 > For example, I don't have $69k\Omega$ resistors, so I put a $22k\Omega$ and a $47k\Omega$ in series. This is basically identical to using a $69k\Omega$ resistor.
 >
-> $100nF$ was chosen for the capacitor as I am using high-quality batteries and use a brushless drive system. This makes my power rails less noisy.
+> $100nF$ was chosen for the capacitor as I am using high-quality batteries and only use brushless motors. If you are using lower quality batteries or brushed motors, consider using a capacitor with a higher capacitance. 
 

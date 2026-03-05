@@ -107,5 +107,5 @@ Place all of your parts into the protoboard according to the diagram.
 
 **Do not** solder anything together yet. 
 
-<img src="/media/vdu/dry.JPG?raw=true" alt="Dry Run" width=50% transform="rotate(90deg)">
+<img src="/media/vdu/dry.JPG?raw=true" alt="Dry Run" width=50% transform="rotate(180deg)">
 

@@ -230,6 +230,7 @@ Clean off any excess flux off the board. Clean both the top and the bottom.
 
 <img src="/media/vdu/brush top.JPG?raw=true" alt="Cleaning off flux" width=50%>
 &nbsp;
+
 Cut the board down to size. Make it as small as possible, as the board itself has weight. 
 
 > [!TIP]

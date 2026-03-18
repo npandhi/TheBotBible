@@ -28,7 +28,7 @@ This guide will walk you through wiring up a BattleBot's wiring harness.
 ## Parts and Tools
 The following tools and parts are needed to complete a wiring harness. 
 
-Tools can be purchased from Amazon or Micro Center, while parts can come from the combat robotics supplier of your choice. [Palm Beach Bots](palmbeachbots.com), Repeat Robotics, and FingerTech Robotics are all great suppliers. Parts have been fairly standarized, so feel free to mix and match parts between suppliers.
+Tools can be purchased from [Amazon](amazon.com) or [Micro Center](microcenter.com), while parts can come from the combat robotics supplier of your choice. [Palm Beach Bots](palmbeachbots.com), [Repeat Robotics](repeat-robotics.com), and [FingerTech Robotics](fingertechrobotics.com) are all great suppliers. Parts have been fairly standarized, so feel free to mix and match parts between suppliers.
 
 Bolded items are required, everything else is optional, but are still recommended.
 

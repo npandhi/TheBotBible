@@ -83,7 +83,7 @@ Bolded items are required, everything else is optional, but are still recommende
 
 ## Circuit Diagram
 
-<img src="/media/harness/diagram.png?raw=true" alt="A diagram showing the wiring of a brushed wiring harness." width=50%>
+<img src="/media/harness/diagram.png?raw=true" alt="A diagram showing the wiring of a brushed wiring harness." width=90%>
 
 > [!NOTE]
 > 

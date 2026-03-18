@@ -79,7 +79,11 @@ Bolded items are required, everything else is optional, but are still recommende
 > 
 > **You cannot buy this part. You must make it yourself.**
 >
-> Check the voltage divider guide to make a divider unit. 
+> Check the voltage divider guide to make a divider unit.
+
+## Circuit Diagram
+
+
 
 ## Assembly
 

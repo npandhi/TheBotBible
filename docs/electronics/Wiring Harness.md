@@ -86,7 +86,7 @@ Bolded items are required, everything else is optional, but are still recommende
 <img src="/media/harness/diagram.png?raw=true" alt="A diagram showing the wiring of a brushed wiring harness." width=90%>
 
 > [!NOTE]
-> This diagram is for is for a split/double ESC brushed drive setup. 
+> This diagram is for is for a split ESC brushed drive setup. This diagram was modeled after a harness using TinyESCs and Repeat MK2s.
 
 ## Assembly
 

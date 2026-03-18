@@ -83,7 +83,10 @@ Bolded items are required, everything else is optional, but are still recommende
 
 ## Circuit Diagram
 
+<img src="/media/harness/diagram.png?raw=true" alt="A diagram showing the wiring of a brushed wiring harness." width=50%>
 
+> [!NOTE]
+> 
 
 ## Assembly
 
@@ -108,7 +111,8 @@ Loop the ends of the ESC wires into the terminal hooks and solder the hooks to t
 
 Slip the heat shrink over the terminal and apply heat to protect the connection.
 
-Solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative.
+Repeat this for the other motor, then solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative. You may have 2 ESCs.
+
 
 &nbsp;
 ### 3b) Connect the Motors and the Drive ESCs to the PDB (Brushless)
@@ -116,7 +120,10 @@ Solder the power leads of the ESC to the PDB. Orientation does matter. Red is po
 
 Solder the three motor leads to the ESC. The orientation doesn't matter. 
 
-If you are using a discrete PDB, connect the ESC leads to the PDB. Orientation does matter. Red is positive, black is negative.
+Repeat this for the other motor, then solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative. You may have 2 ESCs.
+
+> [!NOTE]
+> The Repeat Robotics AM32 Dual Drive Brushless ESC (The one used in the pictures) has a PDB system built in to the ESC. You do not need to use a second PDB.
 
 &nbsp;
 ### 4) Connect the weapon ESC to the PDB

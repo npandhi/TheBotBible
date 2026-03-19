@@ -97,6 +97,7 @@ Bolded items are required, everything else is optional, but are still recommende
 Lay out your parts in the way you will connect them, ensuring no part is left behind. 
 
 &nbsp;
+
 ### 2) Prep the pads of the PDB.
 
 > [!TIP]
@@ -105,10 +106,12 @@ Lay out your parts in the way you will connect them, ensuring no part is left be
 Apply a layer of solder to the PDB. Using some extra flux here will make this a lot easier. 
 
 &nbsp;
+
 ### 3a) Connect the Motors and the Drive ESCs to the PDB (Brushed)
 *For brushed drive motors, such as the Repeat MK2 or the Silver Spark.*
 
 &nbsp;
+
 Place heat shrink onto the ESC wires.
 
 Loop the ends of the ESC wires into the terminal hooks and solder the hooks to the wire. The orientation of the wires isn't super important.
@@ -119,10 +122,12 @@ Repeat this for the other motor, then solder the power leads of the ESC to the P
 
 
 &nbsp;
+
 ### 3b) Connect the Motors and the Drive ESCs to the PDB (Brushless)
 *For brushless drive motors, such as the Repeat MK4.*
 
 &nbsp;
+
 Solder the three motor leads to the ESC. The orientation doesn't matter. 
 
 Repeat this for the other motor, then solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative. You may have 2 ESCs.
@@ -131,6 +136,7 @@ Repeat this for the other motor, then solder the power leads of the ESC to the P
 > The Repeat Robotics AM32 Dual Drive Brushless ESC has a PDB system built in to the ESC. You do not need to use a second PDB.
 
 &nbsp;
+
 ### 4) Connect the weapon ESC to the PDB
 
 Solder the ESC leads to the the PDB. Orientation does matter. Red is positive, black is negative.
@@ -138,10 +144,12 @@ Solder the ESC leads to the the PDB. Orientation does matter. Red is positive, b
 The position of the ESCs does not matter, as long as all reds are positive and all blacks are negative.
 
 &nbsp;
+
 ### 5) Building the receiver
 *If you are NOT using the FS2A, skip this step and move on to step 6.*
 
 &nbsp;
+
 Insert the pin header into the holes. Ensure the orientation matches the picture.
 
 <img src="/media/harness/pins.png?raw=true" alt="The correct pin orientation." width=60%>

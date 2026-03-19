@@ -161,9 +161,37 @@ Cover the receiver with the heat shrink that came in the package.
 
 The battery subcircuit provides a connection between the battery and the PDB.
 
+Place a piece of heat shrink on the red wire of the JST connector. Do not heat it up yet.
+
+Hook the wire into the hole in the leg.
+
 Solder the red wire of the JST connector to the switch. The orientation is important. Ensure that you solder to the leg indicated in this picture.
 
 <img src="/media/harness/switchleg.png?raw=true" alt="The correct pin orientation." width=60%>
 
+Slip the heat shrink onto the leg and apply heat.
+
+To the unsoldered leg of the switch, hook in a piece of red wire. Ensure a piece of heat shrink is present on the wire.
+
+Solder the wire and apply heatshrink in the same way as the JST.
+
+You should have two exposed leads: A black wire from the JST and a red wire from the switch. Solder them onto the PDB on the spots labeled "BAT." Red to positive, black to negative, as usual.
+
+&nbsp;
+
+### 7) The smoke test
+
+The harness is complete. Congratulations for making it this far! 
+
+It's time to see if it works. 
+
+First, connect the control wires to the receiver. The order of these does not matter, but drive motors are usually on channels 1 and 2, while the weapon is usually on channel 3.
+
+> [!IMPORTANT]
+> The orientation of the drive motor ESCs is super important. The SYNC wire (Usually yellow, white, or orange) should be on the pin farthest away from the receiver, while the GND wire (Usually brown or black) should be on the pin closest to the receiver.
+>
+> Some drive ESCs have two SYNC wires and one GND. Place the wire with the SYNC and GND wires in either channel 1 or 2 and plug in the other SYNC wire into the SYNC pin of the other channel.
+> 
+> The orientation of the weapon ESC does not matter.
 
 

@@ -110,8 +110,6 @@ Apply a layer of solder to the PDB. Using some extra flux here will make this a 
 ### 3a) Connect the Motors and the Drive ESCs to the PDB (Brushed)
 *For brushed drive motors, such as the Repeat MK2 or the Silver Spark.*
 
-&nbsp;
-
 Place heat shrink onto the ESC wires.
 
 Loop the ends of the ESC wires into the terminal hooks and solder the hooks to the wire. The orientation of the wires isn't super important.
@@ -125,8 +123,6 @@ Repeat this for the other motor, then solder the power leads of the ESC to the P
 
 ### 3b) Connect the Motors and the Drive ESCs to the PDB (Brushless)
 *For brushless drive motors, such as the Repeat MK4.*
-
-&nbsp;
 
 Solder the three motor leads to the ESC. The orientation doesn't matter. 
 
@@ -147,8 +143,6 @@ The position of the ESCs does not matter, as long as all reds are positive and a
 
 ### 5) Building the receiver
 *If you are NOT using the FS2A, skip this step and move on to step 6.*
-
-&nbsp;
 
 Insert the pin header into the holes. Ensure the orientation matches the picture.
 

@@ -90,6 +90,9 @@ Bolded items are required, everything else is optional, but are still recommende
 
 ## Assembly
 
+> [!IMPORTANT]
+> The parts I use will most likely vary from yours. Assembly pictures have been ommited to simplify this and to reduce confusion if your parts don't exactly match mine.
+
 ### 1) Lay out your parts.
 Lay out your parts in the way you will connect them, ensuring no part is left behind. 
 
@@ -123,7 +126,7 @@ Solder the three motor leads to the ESC. The orientation doesn't matter.
 Repeat this for the other motor, then solder the power leads of the ESC to the PDB. Orientation does matter. Red is positive, black is negative. You may have 2 ESCs.
 
 > [!NOTE]
-> The Repeat Robotics AM32 Dual Drive Brushless ESC (The one used in the pictures) has a PDB system built in to the ESC. You do not need to use a second PDB.
+> The Repeat Robotics AM32 Dual Drive Brushless ESC has a PDB system built in to the ESC. You do not need to use a second PDB.
 
 &nbsp;
 ### 4) Connect the weapon ESC to the PDB
@@ -135,5 +138,8 @@ The position of the ESCs does not matter, as long as all reds are positive and a
 &nbsp;
 ### 5) Building the receiver
 *If you are NOT using the FS2A, skip this step and move on to step 6.*
+
+Insert the pin header into the holes. Ensure the orientation matches the picture.
+
 
 

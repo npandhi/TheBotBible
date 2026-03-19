@@ -148,6 +148,22 @@ Insert the pin header into the holes. Ensure the orientation matches the picture
 
 <img src="/media/harness/pins.png?raw=true" alt="The correct pin orientation." width=60%>
 
+Solder all twelve pins to the board. Ensure the header is flush.
+
+> [!TIP]
+> Solder two opposite corners, then check if it's flush. It's easier to correct it now instead of correcting it after you've soldered all twelve pins.
+
+Cover the receiver with the heat shrink that came in the package.
+
+&nbsp;
+
+### 6) Building the battery subcircuit
+
+The battery subcircuit provides a connection between the battery and the PDB.
+
+Solder the red wire of the JST connector to the switch. The orientation is important. Ensure that you solder to the leg indicated in this picture.
+
+<img src="/media/harness/switchleg.png?raw=true" alt="The correct pin orientation." width=60%>
 
 
 
